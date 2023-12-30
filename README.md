@@ -60,8 +60,6 @@ The Isfahan Cochlear Implant Center Management System leverages the following te
 - **Report Generation:**
   - Stimulsoft Reports for creating comprehensive and customizable reports.
 
-[List any additional technologies or tools used in the project]
-
 ## Installation
 
 1. **Download the Setup File:**
