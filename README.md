@@ -63,7 +63,7 @@ The Isfahan Cochlear Implant Center Management System leverages the following te
 ## Installation
 
 1. **Download the Setup File:**
-   - [Download the latest setup file](#) from the official repository.
+   - [Download the latest setup file](https://github.com/drkalani/CIC_Managment_Setup/tree/main/Debug) from the official repository.
 
 2. **Run the Installer:**
    - Double-click the setup file to run the installation wizard.
