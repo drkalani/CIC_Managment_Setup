@@ -754,7 +754,7 @@
         "Entry"
         {
         "MsmKey" = "8:_AF18224434163CF317A0D9613CF65418"
-        "OwnerKey" = "8:_B72C7BF66AB34578DE61CAC9548D1003"
+        "OwnerKey" = "8:_80784302ABD1A33D3D05163544303034"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -766,7 +766,7 @@
         "Entry"
         {
         "MsmKey" = "8:_AF18224434163CF317A0D9613CF65418"
-        "OwnerKey" = "8:_80784302ABD1A33D3D05163544303034"
+        "OwnerKey" = "8:_B72C7BF66AB34578DE61CAC9548D1003"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -1324,7 +1324,7 @@
                 {
                 "Name" = "8:.NET Framework"
                 "Message" = "8:[VSDNETMSG]"
-                "FrameworkVersion" = "8:v4.6.1"
+                "FrameworkVersion" = "8:v4.6.1 "
                 "AllowLaterVersions" = "11:FALSE"
                 "InstallUrl" = "8:http://go.microsoft.com/fwlink/?LinkId=671728"
                 }
@@ -3128,15 +3128,15 @@
         {
         "Name" = "8:Microsoft Visual Studio"
         "ProductName" = "8:CIC Application"
-        "ProductCode" = "8:{A4DC636A-4ECF-4A6C-9246-8F304EB5F09A}"
-        "PackageCode" = "8:{68D12101-672C-4202-B397-737C2D4E7204}"
+        "ProductCode" = "8:{32B7D15A-ADC8-465C-890B-FDB96595F9D5}"
+        "PackageCode" = "8:{16DEA00D-690C-4D83-93BB-FF54828FE514}"
         "UpgradeCode" = "8:{7A05194D-A5B8-4CE6-84C3-1DEE9BDC289E}"
         "AspNetVersion" = "8:4.0.30319.0"
         "RestartWWWService" = "11:FALSE"
         "RemovePreviousVersions" = "11:TRUE"
         "DetectNewerInstalledVersion" = "11:TRUE"
         "InstallAllUsers" = "11:TRUE"
-        "ProductVersion" = "8:7.3.0"
+        "ProductVersion" = "8:8.0.0"
         "Manufacturer" = "8:Tars Co"
         "ARPHELPTELEPHONE" = "8:+989132014568"
         "ARPHELPLINK" = "8:mahdi@tars.co.ir"
